@@ -26,6 +26,7 @@ Me chamo ALexya, tenho 20 anos. Sou uma estudante motivada, sempre em busca de n
   <a href="mailto:seuemail@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"> </a>
 </span>  
 
+
 ###
 
 <br clear="both">

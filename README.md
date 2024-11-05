@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Olá, bem vindo ao meu perfil do GitHub
 
-<!--
-**AlexyaF/AlexyaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo ALexya, tenho 20 anos. Sou uma estudante motivada, sempre em busca de novos conhecimentos e desafios que agreguem valor ao meu trabalho. Meu objetivo é atuar na área de desenvolvimento, e estou constantemente me aprimorando para alcançar essa meta. Estou aberta a novas oportunidades que me permitam crescer e me comprometo plenamente com os desafios que surgirem.
 
-Here are some ideas to get you started:
+## Ferramentas e Tecnologias
+<span>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" padding=10px />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"  width="60" height="60" padding=10px />      
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aprendendo
+<span>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60" padding=10px />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60" padding=10px />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" padding=10px />       
+</span>  
+
+## Contato
+<span>
+  <a href="https://www.linkedin.com/in/alexya-fortunato/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"  width="60" height="60" padding=10px />
+          
+</span>  

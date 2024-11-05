@@ -18,5 +18,6 @@ Me chamo ALexya, tenho 20 anos. Sou uma estudante motivada, sempre em busca de n
 ## Contato
 <span>
   <a href="https://www.linkedin.com/in/alexya-fortunato/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"  width="60" height="60" padding=10px />
+  <a href="https://www.linkedin.com/in/alexya-fortunato/" target="_blank"><img src="file:///C:/Users/alexya.fortunato/Downloads/email-1572-svgrepo-com.svg"  width="60" height="60" padding=10px />
           
 </span>  

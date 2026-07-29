@@ -1,8 +1,5 @@
 ## 👋 Olá, bem vindo ao meu perfil do GitHub
 
-Me chamo Alexya, tenho 21 anos. Sou uma estudante motivada, sempre em busca de novos conhecimentos e desafios que agreguem valor ao meu trabalho. Meu objetivo é atuar na área de desenvolvimento, e estou constantemente me aprimorando para alcançar essa meta. Estou aberta a novas oportunidades que me permitam crescer e me comprometo plenamente com os desafios que surgirem.
-
-
 ## Ferramentas e Tecnologias
 <span>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" padding=10px />
